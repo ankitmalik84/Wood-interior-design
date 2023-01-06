@@ -1,2 +1,2 @@
 # Wood-interior-design
-### Visit for output👉 [Wood-Interior-design](/guides/content/editing-an-existing-page#modifying-front-matter)
+### Visit for output👉 [Wood-Interior-design](https://ankitmalik84.github.io/Wood-interior-design/)
